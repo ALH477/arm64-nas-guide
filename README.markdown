@@ -1,8 +1,6 @@
 # ARM64 NAS Build Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/username/arm64-nas-guide)](https://github.com/ALH477/arm64-nas-guide/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/username/arm64-nas-guide)](https://github.com/ALH477/arm64-nas-guide/stargazers)
 
 This repository provides a comprehensive guide for building low-power, ARM64-based Network Attached Storage (NAS) systems. Optimized for educational applications (e.g., biohacking, aquaponics), these builds emphasize sustainability, open-source compatibility, and cost efficiency. The guide includes tiered parts lists and setup instructions using Debian-based OS like OpenMediaVault (OMV) or TrueNAS Scale.
 
