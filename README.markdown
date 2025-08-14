@@ -4,8 +4,6 @@
 
 This repository provides a comprehensive guide for building low-power, ARM64-based Network Attached Storage (NAS) systems. Optimized for educational applications (e.g., biohacking, aquaponics), these builds emphasize sustainability, open-source compatibility, and cost efficiency. The guide includes tiered parts lists and setup instructions using Debian-based OS like OpenMediaVault (OMV) or TrueNAS Scale.
 
-Ideal for makers, educators, and drop shippers targeting Shopify sales with high margins (100-200%).
-
 ## Table of Contents
 
 - [Overview](#overview)
