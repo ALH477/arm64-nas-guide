@@ -121,7 +121,7 @@ Use OMV for Budget/Mid-Range tiers and TrueNAS Scale for High-End, both ARM64-co
 - **Sourcing**: Procure from AliExpress or Orange Pi/Radxa. Use GitHub open-source designs for 3D-printed enclosures to reduce costs.
 - **Packaging**: Include QR codes linking to setup videos and PDFs for enhanced user experience.
 - **Target Audience**: Tech-savvy makers, IT students, and educators (ages 15-45). Position as sustainable NAS for home labs or classrooms.
-- **DIY Customization**: Open-source nature allows modifications (e.g., sensor integrations). Provide soldering guides in the repo.
+- **DIY Customization**: Open-source nature allows modifications (e.g., sensor integrations). 
 
 ## Contributing
 
